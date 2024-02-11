@@ -6,18 +6,11 @@ Proffy is a Web and Mobile application designed to help connect students and tea
 
 <img width="642" alt="Captura de Tela 2024-02-11 às 17 35 56" src="https://github.com/YuriVini/Proffy/assets/50464472/38299fc1-ff76-4211-8fc5-88923032cfef">
 
-
-### Mobile 
-
-<img width="585" alt="Captura de Tela 2024-02-11 às 17 35 49" src="https://github.com/YuriVini/Proffy/assets/50464472/275541c6-ea25-45fc-97bf-e3346c10542f">
-
-
 # :computer: Technologies
 This project was made using the follow technologies:
 
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
-* [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/)      
 
 # :rocket: Features
@@ -57,20 +50,6 @@ $ yarn install
 $ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
-
-<br />
-After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
-
-```bash
-# Go to mobile folder
-$ cd Proffy/mobile
-
-# Install Dependencies
-$ yarn install
-
-# Run Aplication
-$ yarn start
-```
 
 # :closed_book: License
 
